@@ -1,6 +1,6 @@
 /*Linked list
 *Code by Luka guraspashvili.
-*This programm takes users name of choice and stores it in a linked list.
+*This program takes users name of choice and stores it in a linked list.
 *Then we can display these elements with the next pointers and values.
 *I added a search function to search for a name in a linked list;
 *Lastly we free all the memory we allocated(tested with valgrind, no memory leaks!) and say thank you!
