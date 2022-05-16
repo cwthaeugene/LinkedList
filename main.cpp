@@ -78,7 +78,7 @@ void print_list(node * tmp)
 
 int main()
 {
-    bool noprint;
+    bool noprint=false;
     string * user_input = new string;
     //Head of a linked list
     node * head=NULL;
